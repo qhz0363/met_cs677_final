@@ -1,0 +1,14 @@
+2021-03-17 15:59:15,072 - INFO - using device:cuda
+2021-03-17 15:59:34,923 - INFO - using device:cuda
+2021-03-17 16:00:44,913 - INFO - using device:cuda
+2021-03-17 16:04:28,425 - INFO - using device:cpu
+2021-03-17 16:42:43,526 - INFO - using device:cuda
+2021-03-17 16:49:31,503 - INFO - using device:cuda
+2021-03-17 16:50:52,961 - INFO - using device:cuda
+2021-03-17 17:13:40,090 - INFO - using device:cuda
+2021-03-17 17:36:29,964 - INFO - using device:cuda
+2021-03-18 10:13:39,284 - INFO - using device:cuda
+2021-03-18 10:19:11,879 - INFO - using device:cpu
+2021-03-18 10:51:40,285 - INFO - using device:cuda
+2021-03-18 10:52:12,197 - INFO - using device:cuda
+2021-04-29 20:53:31,901 - INFO - using device:cpu

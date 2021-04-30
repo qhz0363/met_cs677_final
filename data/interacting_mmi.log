@@ -1,0 +1,10 @@
+2021-03-17 15:04:30,697 - INFO - using device:cuda
+2021-03-17 17:37:57,554 - INFO - using device:cuda
+2021-03-17 17:41:52,683 - INFO - using device:cuda
+2021-03-17 17:42:31,856 - INFO - using device:cuda
+2021-03-17 17:43:10,232 - INFO - using device:cuda
+2021-03-17 17:50:03,575 - INFO - using device:cuda
+2021-03-18 15:21:48,971 - INFO - using device:cuda
+2021-04-29 20:52:56,212 - INFO - using device:cpu
+2021-04-29 21:07:48,384 - INFO - using device:cpu
+2021-04-30 09:19:26,430 - INFO - using device:cpu
